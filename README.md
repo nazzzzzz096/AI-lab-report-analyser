@@ -40,7 +40,7 @@ This is an AI-based web application that analyzes standard blood test results an
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/ai-medical-lab-analyzer.git
+git clone 
 cd ai-medical-lab-analyzer
 ```
 
